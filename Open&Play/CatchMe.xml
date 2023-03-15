@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\User\Desktop\Catch me GAME\ver2\catchmever2.jar</jar>
+  <outfile>C:\Users\User\Desktop\Catch me GAME\ver2\CatchMe.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\User\Desktop\Catch me GAME\ver2\JOJOicon.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <messages>
+    <startupErr>I Need JRE to RUN</startupErr>
+    <jreNotFoundErr>I Need JRE to RUN</jreNotFoundErr>
+    <jreVersionErr>I Need JRE to RUN</jreVersionErr>
+    <launcherErr>Seems Like some of my Files got Corrupted. Try turning Antivirus OFF and restart me :)</launcherErr>
+    <instanceAlreadyExistsMsg>Im Already Running bro, check Taskmanager :)</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
